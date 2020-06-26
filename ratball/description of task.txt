@@ -1,0 +1,17 @@
+manual: Read the section A,C an D of the manual to understand the principle of the test and what are the useful variables of the test.
+xls files: one consist in the raw data of an actual experiment; the other contains the mouse data (and especially the strain of each individual)
+
+The Question is are the animals of different strains different in their ability to recognise a novel object?
+
+your task is to write a code that 
+1. format the data in order to
+2. represent graphically the results and
+3. test if the difference is statisitcally significant
+
+don't forget to comment.
+Ask me questions if anything is unclear
+
+Deadline of the task: 10.07.2019
+
+
+
